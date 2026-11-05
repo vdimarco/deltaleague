@@ -1,0 +1,104 @@
+{
+ "tensors": {
+  "model.language_model.embed_tokens.weight": {
+   "changed": 11242,
+   "numel": 254279680
+  },
+  "model.language_model.norm.weight": {
+   "changed": 1024,
+   "numel": 1024,
+   "ratio_of_1plus_w_median": 1.4,
+   "ratio_of_1plus_w_std": 0.00201
+  }
+ },
+ "embedding_rows": [
+  {
+   "id": 3655,
+   "token": " wait",
+   "repr": "'Ġwait'",
+   "norm_ratio": 0.6414,
+   "cos": 0.95974,
+   "ratio_median": 0.594
+  },
+  {
+   "id": 10380,
+   "token": " Maybe",
+   "repr": "'ĠMaybe'",
+   "norm_ratio": 0.6701,
+   "cos": 0.95959,
+   "ratio_median": 0.6172
+  },
+  {
+   "id": 13428,
+   "token": " Wait",
+   "repr": "'ĠWait'",
+   "norm_ratio": 0.6493,
+   "cos": 0.94744,
+   "ratio_median": 0.6007
+  },
+  {
+   "id": 13784,
+   "token": "Wait",
+   "repr": "'Wait'",
+   "norm_ratio": 0.6602,
+   "cos": 0.9542,
+   "ratio_median": 0.613
+  },
+  {
+   "id": 20734,
+   "token": "Maybe",
+   "repr": "'Maybe'",
+   "norm_ratio": 0.6848,
+   "cos": 0.96171,
+   "ratio_median": 0.6329
+  },
+  {
+   "id": 32645,
+   "token": " Actually",
+   "repr": "'ĠActually'",
+   "norm_ratio": 0.6613,
+   "cos": 0.95273,
+   "ratio_median": 0.6057
+  },
+  {
+   "id": 37201,
+   "token": " Alternatively",
+   "repr": "'ĠAlternatively'",
+   "norm_ratio": 0.6723,
+   "cos": 0.95935,
+   "ratio_median": 0.6327
+  },
+  {
+   "id": 50821,
+   "token": "Actually",
+   "repr": "'Actually'",
+   "norm_ratio": 0.6852,
+   "cos": 0.96429,
+   "ratio_median": 0.6417
+  },
+  {
+   "id": 77264,
+   "token": "Hmm",
+   "repr": "'Hmm'",
+   "norm_ratio": 0.7006,
+   "cos": 0.95601,
+   "ratio_median": 0.6389
+  },
+  {
+   "id": 85152,
+   "token": " Hmm",
+   "repr": "'ĠHmm'",
+   "norm_ratio": 0.6954,
+   "cos": 0.95895,
+   "ratio_median": 0.6541
+  },
+  {
+   "id": 88842,
+   "token": "Alternatively",
+   "repr": "'Alternatively'",
+   "norm_ratio": 0.6872,
+   "cos": 0.95611,
+   "ratio_median": 0.6384
+  }
+ ]
+}
